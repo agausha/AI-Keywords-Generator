@@ -1,6 +1,10 @@
-# AI Keyword Extractor
+# AI Keyword Generator
 
-This is a simple tool built with React and Chakra UI that uses the Open AI [chat completion API](https://platform.openai.com/docs/guides/completion) to extract the best keywords from any given text.
+This is a simple tool built with React and Chakra UI that uses the Open AI [chat completion API](https://platform.openai.com/docs/guides/completion) to generate the best keywords from any given text.
+
+## Live preview link
+
+[https://aikeywordsgenerator.netlify.app/]
 
 ## How to use
 
